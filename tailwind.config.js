@@ -14,3 +14,4 @@ export default {
   },
   plugins: [],
 };
+// Adjusted config font smooth settings
