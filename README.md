@@ -1,3 +1,9 @@
 # Schemind
 
-A personalized learning platform developed as a CSE final year project.
+Schemind is a comprehensive study planner and career roadmap generator.
+
+## Features
+- AI Study Buddy & Doubt Clarifier
+- Interactive Roadmaps
+- Progress Tracker
+- Custom Study Material & Quizzes
