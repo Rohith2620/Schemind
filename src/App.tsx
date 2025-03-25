@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <Router>
-      <div className="relative min-h-screen bg-gray-900 text-white">
+      <div className="relative min-h-screen bg-slate-900 text-white">
         <main className="flex-grow pt-16">
           <Routes>
             <Route path="/" element={<div>Home Page</div>} />
