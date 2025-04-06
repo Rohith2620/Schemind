@@ -17,10 +17,9 @@ app.use(express.json());
 app.use(cors());
 
 // Auth check placeholder
+// Login routes configured
 app.get('/api/auth/status', (req, res) => {
   res.json({ authenticated: false });
 });
 
 app.listen(PORT, () => console.log(`🚀 Server running on http://localhost:${PORT}`));
-
-// Setup sign-up routes
