@@ -22,3 +22,5 @@ app.get('/api/auth/status', (req, res) => {
 });
 
 app.listen(PORT, () => console.log(`🚀 Server running on http://localhost:${PORT}`));
+
+// Setup sign-up routes
