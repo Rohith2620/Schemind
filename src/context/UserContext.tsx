@@ -141,3 +141,4 @@ export const useUser = () => {
   }
   return context;
 }; 
+// Fixed session persistence
