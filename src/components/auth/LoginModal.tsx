@@ -108,3 +108,4 @@ const LoginModal: React.FC<LoginModalProps> = ({ isOpen, onClose, onSwitchToSign
 };
 
 export default LoginModal; 
+// Password visibility toggled
