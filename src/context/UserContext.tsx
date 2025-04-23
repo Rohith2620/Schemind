@@ -141,4 +141,3 @@ export const useUser = () => {
   }
   return context;
 }; 
-// Optimization for token handling
