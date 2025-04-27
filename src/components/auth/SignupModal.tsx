@@ -155,4 +155,3 @@ const SignupModal: React.FC<SignupModalProps> = ({ isOpen, onClose, onSwitchToLo
 };
 
 export default SignupModal; 
-// Styling tweaks for form validation feedback
