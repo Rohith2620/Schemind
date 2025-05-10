@@ -299,3 +299,4 @@ const Home = () => {
 };
 
 export default Home;
+// Gradient elements added
