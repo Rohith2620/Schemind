@@ -181,4 +181,4 @@ const Account: React.FC = () => {
 };
 
 export default Account;
-// Responsiveness polish for mobile views
+// Stats calculation helpers
