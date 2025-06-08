@@ -196,4 +196,3 @@ const Quiz: React.FC = () => {
 };
 
 export default Quiz; 
-// Validate answers logic adjusted
