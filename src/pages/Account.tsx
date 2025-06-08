@@ -181,4 +181,3 @@ const Account: React.FC = () => {
 };
 
 export default Account;
-// Stats calculation helpers
