@@ -356,5 +356,3 @@ Your responses should be warm, empathetic, and solution-oriented.`;
 };
 
 export default ChatBot;
-
-// Message state handling fix
