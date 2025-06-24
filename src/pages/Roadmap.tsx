@@ -830,5 +830,3 @@ const Roadmap: React.FC<RoadmapProps> = () => {
 };
 
 export default Roadmap;
-
-// Flow renderer optimized
